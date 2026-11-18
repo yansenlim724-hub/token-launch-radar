@@ -1,5 +1,9 @@
 # Token Radar
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/yansenlim724-hub/token-launch-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/yansenlim724-hub/token-launch-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A token launch radar: it reads a frozen snapshot of every protocol DefiLlama tracks,
 ranks the protocols that record no token by what their launch would be worth, and hands
 in a dashboard a reader can use — the board, a detail view for each protocol, and the
@@ -77,9 +81,13 @@ main.ts            the entrypoint: reads the snapshot, writes /output
 lib/model.ts       the model: multiples, implied value, farm plans, the board
 vendor/makefun-board.ts   the dossier library, the kit's copy byte for byte
 dashboard/         index.html, app.css, app.js — the static page, no network
-screenshots/       1-board.png, 2-detail.png, 3-filtered.png
+screenshots/       1-board.jpg, 2-detail.jpg, 3-filtered.jpg
 ```
 
 ## License
 
 MIT. See LICENSE.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=wz6mbrsd&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
